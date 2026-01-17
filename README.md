@@ -103,8 +103,6 @@ npm install
 npm run dev
 ```
 
----
-
 
 ---
 
@@ -113,3 +111,5 @@ npm run dev
 The project is deployed using Vercel as a static frontend application.
 
 https://ai-agents-on-arc-autonomous-payment.vercel.app/
+
+https://ai-agents-on-arc-autonomous-paym-git-c95227-jaweria01s-projects.vercel.app/
