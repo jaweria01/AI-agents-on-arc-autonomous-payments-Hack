@@ -1,9 +1,9 @@
-# 🧠 Autonomous AI Payment Ecosystem
+#  Autonomous AI Payment Ecosystem
 **AI Agents on Arc with USDC — Hackathon Project**
 
 ---
 
-## 📌 Overview
+## Overview
 
 The **Autonomous AI Payment Ecosystem** is an educational, frontend-based prototype developed for the **AI Agents on Arc with USDC** hackathon.  
 The project demonstrates how **agent-based automation** can be applied to conditional payment workflows using a **rule-driven, explainable approach** in a simulated environment.
@@ -12,7 +12,7 @@ Rather than focusing on real blockchain deployment or self-learning AI models, t
 
 ---
 
-## 🎯 Project Motivation
+## Project Motivation
 
 Modern payment systems often require automated decision-making while maintaining transparency and control.  
 This project was created to explore how **modular software agents** can independently coordinate payment verification, execution, and monitoring once a workflow is initiated by a user.
@@ -25,11 +25,11 @@ The system is designed to be:
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 The system follows an **agent-based architecture** inspired by **Arc-style execution models**, where responsibilities are divided across modular agents coordinated through an orchestration layer.
 
-### 🔹 Core Agents
+### Core Agents
 
 **Verifier Agent**  
 Validates payment details using rule-based checks, including amount, sender, receiver, and city.
@@ -56,7 +56,7 @@ Each agent operates independently and is coordinated through a centralized orche
 8. Completed payments are stored in the **Payment History** for reference.
 
 ---
-## 🤖 What “Autonomous” Means in This Project
+##  What “Autonomous” Means in This Project
 
 In this context, *autonomous* refers to **workflow-level autonomy**, not cognitive or learning-based autonomy.
 
@@ -70,7 +70,7 @@ This autonomy is **architectural**, not intelligent.
 
 ---
 
-## 🔮 Future Extensibility
+##  Future Extensibility
 
 While the current implementation prioritizes rule-driven logic for clarity and evaluation, the architecture is intentionally designed as an **extensible foundation**.
 
@@ -84,7 +84,7 @@ These extensions are **conceptual** and are **not part of the current implementa
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Frontend:** React + TypeScript  
 - **Build Tool:** Vite  
@@ -94,7 +94,7 @@ These extensions are **conceptual** and are **not part of the current implementa
 - **Deployment:** Vercel  
 
 ---
-## 🚀 Running the Project Locally
+##  Running the Project Locally
 
 To run the project locally, follow these steps:
 
