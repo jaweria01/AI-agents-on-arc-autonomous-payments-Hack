@@ -111,3 +111,5 @@ npm run dev
 ## 🌐 Deployment
 
 The project is deployed using Vercel as a static frontend application.
+
+https://ai-agents-on-arc-autonomous-payment.vercel.app/
