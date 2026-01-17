@@ -103,6 +103,8 @@ npm install
 npm run dev
 
 ---
-🌐 Deployment
+
+---
+## 🌐 Deployment
 
 The project is deployed using Vercel as a static frontend application.
