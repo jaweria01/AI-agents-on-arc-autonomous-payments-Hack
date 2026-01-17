@@ -101,10 +101,13 @@ To run the project locally, follow these steps:
 ```bash
 npm install
 npm run dev
+```
 
 ---
 
+
 ---
+
 ## 🌐 Deployment
 
 The project is deployed using Vercel as a static frontend application.
